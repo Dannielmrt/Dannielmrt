@@ -2,17 +2,20 @@
   <img src="dibujo.svg" alt="Texto Cabecera Daniel Moret" width="100%" />
 </p>
 ## Hi there 👋
-<!--
-**Dannielmrt/Dannielmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> My name is Daniel Moret Robled, I'm a 2nd-year student of Multiplatform Application Development (DAM) - focused on mobile and back-end technologies.
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me:
+- 
+-
+-
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danielmoretrobledo@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-dannielmrt-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
+
+
+### 🌟 Highlights:
+---
