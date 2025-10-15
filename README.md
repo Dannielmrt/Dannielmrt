@@ -29,6 +29,7 @@ The objective was to design a dynamic header to enhance the professional present
 
 #### ⚙️ Code (Animation)
 ```svg
+    [...]
     <!-- Animación gradiente de color -->
     <linearGradient id="gradiente" x1="0%" y1="0%" x2="100%" y2="25%">
         <stop offset="0%" style="stop-color:#2a7b9b;"/> 
@@ -43,10 +44,7 @@ The objective was to design a dynamic header to enhance the professional present
 
 <rect [...]
 </defs>
-<g
-    inkscape:label="Capa 1"
-    inkscape:groupmode="layer"
-    id="layer1">
+<g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1">
     <path [...]
 
     <!-- Circulo animado -->
@@ -57,6 +55,7 @@ The objective was to design a dynamic header to enhance the professional present
     <circle cx="400" cy="10" r="3" fill="white">
         <animate attributeName="opacity" values="0.5; 0.1; 0.5; 0.2" dur="3s" begin="1.5s" repeatCount="indefinite" />
     </circle>
+    [...]
 ```
 
 #### ✨ Personal Reflection
