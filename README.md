@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me:
 - 📖 I enjoy diving into **Epic Fantasy** ⚔️ and **classic literature** 
-- 🎮 I enjoy **playing videogames** in my free time to unwind
+- 🎮 I like to **play videogames** 
 - 💡 I am **restless** and **curious**, always **discovering new interests** and areas of study
 
 ## 📫 Reach Me:
@@ -29,6 +29,7 @@ The objective was to design a dynamic header to enhance the professional present
 
 #### ⚙️ Code (Animation)
 ```svg
+    <!-- Animación gradiente de color -->
     <linearGradient id="gradiente" x1="0%" y1="0%" x2="100%" y2="25%">
         <stop offset="0%" style="stop-color:#2a7b9b;"/> 
         <stop offset="15%" style="stop-color:#3e9d91;"/>
