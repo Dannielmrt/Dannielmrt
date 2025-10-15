@@ -1,6 +1,7 @@
 <p align="center">
   <img src="dibujo.svg" alt="Texto Cabecera Daniel Moret" width="100%" />
 </p>
+
 ## Hi there 👋
 > My name is Daniel Moret Robled, I'm a 2nd-year student of Multiplatform Application Development (DAM) - focused on mobile and back-end technologies.
 
